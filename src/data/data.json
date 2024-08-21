@@ -1,0 +1,241 @@
+{
+    "smartservices": {
+        "title": "Fire & Security Systems",
+        "description": "We offer safe, reliable, and technically superior Fire & Security systems. These ensure safety and peace of mind for our customers and their assets and property.",
+        "items": [
+            {
+                "title": "Fire Alarm System",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque vel sit maxime assumenda. maiores, magnam",
+                "image": "/images/process/process1.png",
+                "route": "fire-alarm-system"
+            },
+            {
+                "title": "Emergency Lights & Monitoring",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque vel sit maxime assumenda. maiores, magnam",
+                "image": "/images/process/process2.png",
+                "route": "emergency-lights-and-monitoring"
+            },
+            {
+                "title": "Voice Evacuation System",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque vel sit maxime assumenda. maiores, magnam",
+                "image": "/images/process/process3.png",
+                "route": "voice-evacuation-system"
+            },
+            {
+                "title": "Fire Suppression Systems",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque vel sit maxime assumenda. maiores, magnam",
+                "image": "/images/process/process1.png",
+                "route": "fire-suppression-systems"
+            },
+            {
+                "title": "Kitchen hood Fire Suppression",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque vel sit maxime assumenda. maiores, magnam",
+                "image": "/images/process/process1.png",
+                "route": "kitchen-hood-Fire-Suppression"
+            },
+            {
+                "title": "Kitchen hood Fire Suppression",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque vel sit maxime assumenda. maiores, magnam",
+                "image": "/images/process/process2.png",
+                "route": "kitchen-hood-Fire-Suppression"
+            },
+            {
+                "title": "Sprinkler & Deluge system",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque vel sit maxime assumenda. maiores, magnam",
+                "image": "/images/process/process3.png",
+                "route": "sprinkler-and-deluge-system"
+            },
+            {
+                "title": "Manual Fire Fighting Systems",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque vel sit maxime assumenda. maiores, magnam",
+                "image": "/images/process/process1.png",
+                "route": "manual-fire-fighting-systems"
+            }
+        ]
+    },
+    "blogdetails": {
+        "title": "our blogs",
+        "description": "Aliquam quis iaculis tincidunt interdum. Tortor luctus mi diam venenatis, aliquam bibendum malesuada. Lacus, porttitor risus sem a sagittis, eget non odio aliquam. Velit facilisis eget pellentesque hendrerit lorem proin sed ut. Arcu risus ultrices risus.",
+        "items": [
+            {
+                "title": "Joe’s Company Software Development Case",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas in fugit minima modi perspiciatis nam aspernatur porro",
+                "image": "/images/blog/blog1.jpg",
+                "publishdate": "10 April 2020",
+                "author": "By Admin",
+                "route": "joes-company-software-development-case"
+            },
+            {
+                "title": "Temperature App UX Studies & Development Case",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas in fugit minima modi perspiciatis nam aspernatur porro",
+                "image": "/images/blog/blog2.jpg",
+                "publishdate": "10 April 2020",
+                "author": "By Admin",
+                "route": "temperature-app-ux-studies-and-development-case"
+            },
+            {
+                "title": "IT Software Company Development Case",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas in fugit minima modi perspiciatis nam aspernatur porro",
+                "image": "/images/blog/blog3.jpg",
+                "publishdate": "10 April 2020",
+                "author": "By Admin",
+                "route": "it-software-company-development-case"
+            }
+        ]
+    },
+    "ourpartners": {
+        "items": [
+            {
+                "icon": "/images/partner/honeywell-logo.png"
+            },
+            {
+                "icon": "/images/partner/ziton-icon.png"
+            },
+            {
+                "icon": "/images/partner/flame-icon.png"
+            },
+            {
+                "icon": "/images/partner/hochiki-icon.png"
+            },
+            {
+                "icon": "/images/partner/pyrochem-icon.png"
+            },
+            {
+                "icon": "/images/partner/ziton-icon.png"
+            }
+        ]
+    },
+    "solutions": {
+        "title": "Solutions",
+        "description": "We design, supply install, certify and maintain, reliable systems as per industry safety standards for faster responsiveness to potential emergencies. Our solutions are proven in-use for various applications across multiple sectors.",
+        "items": [
+            {
+                "title": "Turnkey solutions",
+                "description": "Tortor luctus mi diam venenatis, aliquam bibendum malesuada.",
+                "long_description": "Dolor vitae aliquam aliquet dignissim amet blandit a a, quis. At egestas id sed porttitor. Est nulla neque augue.",
+                "image": "/images/solutions/solution01.jpg",
+                "icon": "/images/SVG/Turnkey.svg",
+                "route": "turnkey-solutions"
+            },
+            {
+                "title": "Maintenance",
+                "description": "Tortor luctus mi diam venenatis, aliquam bibendum malesuada.",
+                "long_description": "Dolor vitae aliquam aliquet dignissim amet blandit a a, quis. At egestas id sed porttitor. Est nulla neque augue.",
+                "image": "/images/solutions/solution02.jpg",
+                "icon": "/images/SVG/Maintenence.svg",
+                "route": "maintenance"
+            },
+            {
+                "title": "Trading",
+                "description": "Tortor luctus mi diam venenatis, aliquam bibendum malesuada.",
+                "long_description": "Dolor vitae aliquam aliquet dignissim amet blandit a a, quis. At egestas id sed porttitor. Est nulla neque augue.",
+                "image": "/images/solutions/solution03.jpg",
+                "icon": "/images/SVG/Trading.svg",
+                "route": "trading"
+            },
+            {
+                "title": "Design",
+                "description": "Tortor luctus mi diam venenatis, aliquam bibendum malesuada.",
+                "long_description": "Dolor vitae aliquam aliquet dignissim amet blandit a a, quis. At egestas id sed porttitor. Est nulla neque augue.",
+                "image": "/images/solutions/solution04.jpg",
+                "icon": "/images/SVG/Design.svg",
+                "route": "design"
+            },
+            {
+                "title": "Civil Defence Certification",
+                "description": "Tortor luctus mi diam venenatis, aliquam bibendum malesuada.",
+                "long_description": "Dolor vitae aliquam aliquet dignissim amet blandit a a, quis. At egestas id sed porttitor. Est nulla neque augue.",
+                "image": "/images/solutions/solution05.jpg",
+                "icon": "/images/SVG/Certification.svg",
+                "route": "civil-defence-certification"
+            }
+        ]
+    },
+    "ProductInnerData": {
+        "title": "fire detection",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor et enim amet suspendisse non praesent et at. Tortor proin lectus accumsan, accumsan blandit molestie cursus elementum. Integer nec cursus cursus ornare aliquet fermentum vitae morbi. Amet convallis pellentesque lorem diam leo. Eget adipiscing sit diam duis cras. Nunc turpis imperdiet integer ac. Cursus suspendisse elit vulputate quis adipiscing sed. Quis arcu faucibus eu viverra elit metus duis ultricies leo. Massa nisl condimentum nulla lobortis arcu ",
+        "items": [
+            {
+                "title": "HOCHIKI",
+                "bold_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis augue eget quisque nunc sollicitudin nibh.",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor et enim amet suspendisse non praesent et at. Tortor proin lectus accumsan, accumsan blandit molestie cursus elementum. Integer nec cursus cursus ornare aliquet fermentum vitae morbi. Amet convallis pellentesque lorem diam leo. Eget adipiscing sit diam duis cras. Nunc turpis imperdiet integer ac. Cursus suspendisse elit vulputate quis adipiscing sed. Quis arcu faucibus eu viverra elit metus duis ultricies leo. Massa nisl condimentum nulla lobortis arcu ut eget ullamcorper. Feugiat quam id eget pellentesque quis congue non. Mus vitae feugiat iaculis congue amet. Tellus amet, aenean posuere vulputate quis scelerisque id. Porta mi a.",
+                "image": "/images/hochiki.jpg"
+            },
+            {
+                "title": "ZITON",
+                "bold_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis augue eget quisque nunc sollicitudin nibh.",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor et enim amet suspendisse non praesent et at. Tortor proin lectus accumsan, accumsan blandit molestie cursus elementum. Integer nec cursus cursus ornare aliquet fermentum vitae morbi. Amet convallis pellentesque lorem diam leo. Eget adipiscing sit diam duis cras. Nunc turpis imperdiet integer ac. Cursus suspendisse elit vulputate quis adipiscing sed. Quis arcu faucibus eu viverra elit metus duis ultricies leo. Massa nisl condimentum nulla lobortis arcu ut eget ullamcorper. Feugiat quam id eget pellentesque quis congue non. Mus vitae feugiat iaculis congue amet. Tellus amet, aenean posuere vulputate quis scelerisque id. Porta mi a.",
+                "image": "/images/ziton.jpg"
+            },
+            {
+                "title": "SV SYSTEMS",
+                "bold_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis augue eget quisque nunc sollicitudin nibh.",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor et enim amet suspendisse non praesent et at. Tortor proin lectus accumsan, accumsan blandit molestie cursus elementum. Integer nec cursus cursus ornare aliquet fermentum vitae morbi. Amet convallis pellentesque lorem diam leo. Eget adipiscing sit diam duis cras. Nunc turpis imperdiet integer ac. Cursus suspendisse elit vulputate quis adipiscing sed. Quis arcu faucibus eu viverra elit metus duis ultricies leo. Massa nisl condimentum nulla lobortis arcu ut eget ullamcorper. Feugiat quam id eget pellentesque quis congue non. Mus vitae feugiat iaculis congue amet. Tellus amet, aenean posuere vulputate quis scelerisque id. Porta mi a.",
+                "image": "/images/svsystems.jpg"
+            }
+        ]
+    },
+    "projects": {
+        "items": [
+            {
+                "title": "Doha international airport",
+                "bold_description": "Urna imperdiet augue gravida eu sit sapien sodales gravida. Cursus adipiscing id scelerisque nam vestibulum, pretium at condimentum. ",
+                "description": "Urna imperdiet augue gravida eu sit sapien sodales gravida. Cursus adipiscing id scelerisque nam vestibulum, pretium at condimentum. At volutpat urna consequat habitant. Euismod nunc a eu parturient. Tellus leo dolor tempus semper in vestibulum in viverra. Quis elementum sit nam proin sed nullam egestas. Quisque interdum sagittis nunc mauris bibendum pretium odio. Pretium orci eget rhoncus dolor non amet, ultrices ac. Sed quam ut sagittis a risus. Volutpat euismod tellus dignissim leo dolor. Ultricies sit id iaculis.",
+                "image": "/images/projects/projects01.jpg"
+            },
+            {
+                "title": "dubai police general hq",
+                "bold_description": "Urna imperdiet augue gravida eu sit sapien sodales gravida. ",
+                "description": "Urna imperdiet augue gravida eu sit sapien sodales gravida. Cursus adipiscing id scelerisque nam vestibulum, pretium at condimentum. At volutpat urna consequat habitant. Euismod nunc a eu parturient. Tellus leo dolor tempus semper in vestibulum in viverra. Quis elementum sit nam proin sed nullam egestas. Quisque interdum sagittis nunc mauris bibendum pretium odio. Pretium orci eget rhoncus dolor non amet, ultrices ac. Sed quam ut sagittis a risus. Volutpat euismod tellus dignissim leo dolor. Ultricies sit id iaculis.",
+                "image": "/images/projects/projects02.jpg"
+            },
+            {
+                "title": "embassy of morocco",
+                "bold_description": "Lorem Ipsum Quis elementum sit nam proin sed nullam egestas.",
+                "description": "Urna imperdiet augue gravida eu sit sapien sodales gravida. Cursus adipiscing id scelerisque nam vestibulum, pretium at condimentum. At volutpat urna consequat habitant. Euismod nunc a eu parturient. Tellus leo dolor tempus semper in vestibulum in viverra. Quis elementum sit nam proin sed nullam egestas. Quisque interdum sagittis nunc mauris bibendum pretium odio. Pretium orci eget rhoncus dolor non amet, ultrices ac. Sed quam ut sagittis a risus. Volutpat euismod tellus dignissim leo dolor. Ultricies sit id iaculis.",
+                "image": "/images/projects/projects01.jpg"
+            },
+            {
+                "title": "qatar university",
+                "bold_description": "lorem ipsum Euismod nunc a eu parturient. Tellus leo dolor tempus semper in vestibulum in viverra.",
+                "description": "Urna imperdiet augue gravida eu sit sapien sodales gravida. Cursus adipiscing id scelerisque nam vestibulum, pretium at condimentum. At volutpat urna consequat habitant. Euismod nunc a eu parturient. Tellus leo dolor tempus semper in vestibulum in viverra. Quis elementum sit nam proin sed nullam egestas. Quisque interdum sagittis nunc mauris bibendum pretium odio. Pretium orci eget rhoncus dolor non amet, ultrices ac. Sed quam ut sagittis a risus. Volutpat euismod tellus dignissim leo dolor. Ultricies sit id iaculis.",
+                "image": "/images/projects/projects04.jpg"
+            },
+            {
+                "title": "al rawabi farm",
+                "bold_description": "Lorem Ipsum Sed quam ut sagittis a risus. Volutpat euismod tellus dignissim leo dolor.",
+                "description": "Urna imperdiet augue gravida eu sit sapien sodales gravida. Cursus adipiscing id scelerisque nam vestibulum, pretium at condimentum. At volutpat urna consequat habitant. Euismod nunc a eu parturient. Tellus leo dolor tempus semper in vestibulum in viverra. Quis elementum sit nam proin sed nullam egestas. Quisque interdum sagittis nunc mauris bibendum pretium odio. Pretium orci eget rhoncus dolor non amet, ultrices ac. Sed quam ut sagittis a risus. Volutpat euismod tellus dignissim leo dolor. Ultricies sit id iaculis.",
+                "image": "/images/projects/projects05.jpg"
+            },
+            {
+                "title": "al murooj rotana",
+                "bold_description": "lorem ipsum Tellus leo dolor tempus semper in vestibulum in viverra. Quis elementum sit nam proin sed nullam egestas",
+                "description": "Urna imperdiet augue gravida eu sit sapien sodales gravida. Cursus adipiscing id scelerisque nam vestibulum, pretium at condimentum. At volutpat urna consequat habitant. Euismod nunc a eu parturient. Tellus leo dolor tempus semper in vestibulum in viverra. Quis elementum sit nam proin sed nullam egestas. Quisque interdum sagittis nunc mauris bibendum pretium odio. Pretium orci eget rhoncus dolor non amet, ultrices ac. Sed quam ut sagittis a risus. Volutpat euismod tellus dignissim leo dolor. Ultricies sit id iaculis.",
+                "image": "/images/projects/projects06.jpg"
+            }
+        ]
+    },
+    "faqsContent" : {
+        "title" : "WHY US",
+        "subtitle" : "24X7X365 DAYS OF SERVICE FOR ALL YOUR NEEDS",
+        "description": "DAFOOS provides end-to-end design, erection and commissioning and maintenance of both active and passive Fire Protection Systems, and Security Systems. We offer 24x7x365 days service, we think ahead of the industry – DAFOOS was the first organization in the region to impart training to the end users in effective Fire Prevention. We take pride in our well-trained engineers and technicians and the premium quality products that we deploy and our highly satisfied and well-retained customer-base. We bring to you “safe, minimum fire hazard” workplaces and living facilities.",
+        "items": [
+            {
+                "title" : "Great Understanding",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt sit amet consectetur adipiscing."
+            },
+            {
+                "title" : "Update Technology",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt sit amet consectetur adipiscing."
+            },
+            {
+                "title" : "Experienced Team",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt sit amet consectetur adipiscing."
+            },
+            {
+                "title" : "Best Quality Service",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt sit amet consectetur adipiscing."
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+/* @import "./pages/product/index"; */
+/* @import "~bootstrap/scss/bootstrap"; */
+/* @import "../public/css/rtl.scss"; */
+
+
+@import "./assets/css/style.css"; 
+@import "./assets/css/style.scss";
+@import "./assets/css/meanmenu.css";
+@import "./assets/css/responsive.css";
+/* @import "./assets/css/responsive.scss"; */
+@import "./assets/css/flaticon.css";
+@import "./assets/css/rtl.css";
+@import "./assets/css/rtl.scss";
+@import "./assets/css/animate.min.css";
+@import "./assets/css/bootstrap.min.css";
+@import "./assets/css/boxicons.min.css";
+
+@font-face {
+  font-family: 'Gotham';
+  src: local('Gotham'), url(./assets/fonts/Gotham-Font/GothamMedium.ttf) format('ttf');
+}
+
+@font-face {
+  font-family: 'Gotham Bold';
+  src: local('Gotham Bold'), url(./assets/fonts/Gotham-Font/Gotham-Bold.otf) format('otf');
+}
+
+
+body {
+  margin: 0;
+  font-family: 'Gotham',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Gotham Bold',
+  sans-serif;
+  font-weight: 600;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  text-decoration: none;
+}
